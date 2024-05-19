@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VigneshBR123
-- 👀 I’m interested in Coding and designing
-- 🌱 I’m currently learning Engineering in Computer Science
+- 👀 I’m a mini techie in designing, Coding, testing and developent
+- 🌱 I’m Graduated by Engineering in Computer Science
 - 💞️ I’m looking to collaborate on  MNC
 - 📫 Reach me by br20062002@gmail.com
 
