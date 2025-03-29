@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @VigneshBR123
-- 👀 I’m a mini techie in designing, Coding, testing and developent
-- 🌱 I’m Graduated by Engineering in Computer Science
-- 💞️ I’m looking to collaborate on  MNC
-- 📫 Reach me by br20062002@gmail.com
+### 👋 Hi there, I’m Vignesh BR (@VigneshBR123)
 
-<!---
-VigneshBR123/VigneshBR123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a mini techie passionate about designing, coding, testing, and development  
+- 🎓 Graduated in Computer Science Engineering  
+- 🌱 Currently exploring Python Full-Stack Development  
+- 🔧 Tech interests: Web Design | Development | Integration | AI/ML | Data Science | Automation
+- 💼 Portfolio: [vigneshbr.site](https://vigneshbr.site) 
+- 📫 How to reach me: br20062002@gmail.com  
+- 💬 Fun Fact: I believe great code is like good coffee – strong, smooth, and gets the job done!
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshBR123&show_icons=true&theme=radical)
